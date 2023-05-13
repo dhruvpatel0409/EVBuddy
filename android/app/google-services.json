@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390700737906",
+    "project_id": "evapp-7775e",
+    "storage_bucket": "evapp-7775e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390700737906:android:0c136add50e45e3f28a9eb",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390700737906-75gauraruj25713e4f2llmi7t1mvgovq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkChER5hBaJb_ywbgdohqeebDsWBjZzKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390700737906-75gauraruj25713e4f2llmi7t1mvgovq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
